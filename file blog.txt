@@ -1,0 +1,88 @@
+<!--navbar-->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	  <a class="navbar-brand" href="#">Webhozz Training</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item">
+	        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+	      </li>
+	      <li class="nav-item active">
+	        <a class="nav-link" href="blog.html">Blog</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="about.html">About</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="contact.html">Contact</a>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<!--tutup navbar-->
+
+	<!--container-->
+	<div class="container-fluid">
+
+		  
+		<!--row-->
+		<div class="row" style="width: 80%; border: 0px solid black; margin: 20px auto;">
+		    
+			<div class="col-md-9">
+
+				<h2>Blog</h2>
+			
+				<div class="card mb-3">
+				  <img class="card-img-top" src="gambar/webdesain.jpg" alt="Card image cap">
+				  <div class="card-body">
+				    <h5 class="card-title">Belajar Web Design itu Menyenangkan</h5>
+				    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+				    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+				  </div>
+				</div>
+				
+				<div class="card mb-3">
+				  <img class="card-img-top" src="gambar/concept.jpg" alt="Card image cap">
+				  <div class="card-body">
+				    <h5 class="card-title">Tips Web Design untuk Pemula</h5>
+				    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+				    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+				  </div>
+				</div>
+
+			</div>
+
+			<div class="col-md-3">
+
+				<h4>Postingan Populer</h4>
+				<hr>
+
+				<div class="card mb-3">
+				  <img class="card-img-top" src="gambar/webdesain.jpg" alt="Card image cap">
+				  <div class="card-body">
+				    <h5 class="card-title">Belajar Web Design itu Menyenangkan</h5>
+				    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+				  </div>
+				</div>
+				
+				<div class="card mb-3">
+				  <img class="card-img-top" src="gambar/concept.jpg" alt="Card image cap">
+				  <div class="card-body">
+				    <h5 class="card-title">Tips Web Design untuk Pemula</h5>
+				    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+				  </div>
+				</div>
+
+			</div>
+
+		</div>
+		<!--tutup row-->
+
+	</div>
+	<!--tutup container-->
+	<nav class="navbar navbar-dark bg-dark">
+	  	<h4 align="center" style="color: white; margin: auto;">Copyright 2018 || All Right Reserved</h4>
+	</nav>

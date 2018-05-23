@@ -1,0 +1,64 @@
+	<!--navbar-->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	  <a class="navbar-brand" href="#">Webhozz Training</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item">
+	        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="blog.html">Blog</a>
+	      </li>
+	      <li class="nav-item active">
+	        <a class="nav-link" href="about.html">About</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="contact.html">Contact</a>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<!--tutup navbar-->
+
+	<!--container-->
+	<div class="container-fluid">
+
+		  
+		<!--row-->
+		<div class="row" style="width: 80%; border: 0px solid black; margin: 20px auto;">
+
+			<div class="col-md-12">
+				<h2>About</h2>
+			</div>
+		    
+			<div class="col-md-6">
+			
+				<img src="gambar/webhozz-doc.jpg" class="img-thumbnail">
+
+			</div>
+
+			<div class="col-md-6">
+				<h5>What Is This?</h5>
+
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
+			</div>
+
+		</div>
+		<!--tutup row-->
+
+	</div>
+	<!--tutup container-->
+	<nav class="navbar navbar-dark bg-dark">
+	  	<h4 align="center" style="color: white; margin: auto;">Copyright 2018 || All Right Reserved</h4>
+	</nav>
